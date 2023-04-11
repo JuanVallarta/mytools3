@@ -3,3 +3,4 @@
 ^LICENSE\.md$
 ^mytoolspractice\.Rproj$
 ^\.Rproj\.user$
+^data-raw$
