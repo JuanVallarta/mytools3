@@ -82,6 +82,11 @@ gitlabr::use_gitlab_ci(type = "check-coverage-pkgdown")
 fusen::add_flat_template("add")
 ```
 
+## Add data
+
+```{r}
+usethis::use_data_raw()
+```
 ## Use everytime needed
 
 ```{r}
