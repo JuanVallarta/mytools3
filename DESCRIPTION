@@ -10,6 +10,9 @@ Description: Use Rmarkdown First method to build your package. Start your
     package with documentation. Everything can be set from a Rmarkdown
     file in your project.
 License: MIT + file LICENSE
+Imports: 
+    dplyr,
+    magrittr
 Suggests: 
     knitr,
     rmarkdown,
