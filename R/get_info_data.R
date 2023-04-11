@@ -2,6 +2,7 @@
 
 #' Get info data
 #' Function which will allow to have information on a data set passed in parameter: dimensions and name of columns in a list 
+
 #' @return list
 #' @export
 #'
